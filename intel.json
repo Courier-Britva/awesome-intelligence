@@ -5077,5 +5077,12 @@
         "link": "https://tracefind.info",
         "region": "GLOBAL",
         "tags": "identity,threat"
+    },
+    {
+        "title": "TGScope",
+        "description": "Search engine and catalog of 3M+ public Telegram channels with per-channel stats, topic and language tags, and event pages that collect posts mentioning places, companies and people.",
+        "link": "https://tgscope.io",
+        "region": "GLOBAL",
+        "tags": "identity,research"
     }
 ]
